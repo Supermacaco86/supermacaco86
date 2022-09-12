@@ -6,6 +6,24 @@ Full Stack Developer
 Full Stack Developer con formación como Diseñador Web. Experiencia trabajando en NodeJS, React,
 Redux, SQL entre otras tecnologías del sector. Realicé dos App de manera individual y una App, cuya temática es la salud, de manera grupal. Con pensamiento creativo, resolución de problemas, trabajo en equipo, comunicación y autonomía.
 
+Tech Skills: 💻
+JavaScript
+HTML5
+CSS
+CSS Modules
+Bootstrap
+React
+Redux
+NodeJS
+Express
+Sequelize & Postgres
+Typescript [learning]
+Contact 📩
+LinkedIn: https://www.linkedin.com/in/martin--figueroa/
+E-mail: martinfigueroa2103@hotmaill.com 
+Portafolio:
+
+
 
 <!--
 **Supermacaco86/supermacaco86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
