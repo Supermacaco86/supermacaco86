@@ -18,8 +18,10 @@ NodeJS
 Express
 Sequelize & Postgres
 Typescript [learning]
+
 Contact 📩
 LinkedIn: https://www.linkedin.com/in/martin--figueroa/
+
 E-mail: martinfigueroa2103@hotmaill.com 
 Portafolio:
 
