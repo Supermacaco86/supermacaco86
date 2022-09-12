@@ -7,6 +7,7 @@ Full Stack Developer con formación como Diseñador Web. Experiencia trabajando 
 Redux, SQL entre otras tecnologías del sector. Realicé dos App de manera individual y una App, cuya temática es la salud, de manera grupal. Con pensamiento creativo, resolución de problemas, trabajo en equipo, comunicación y autonomía.
 
 Tech Skills: 💻
+
 JavaScript
 HTML5
 CSS
@@ -20,9 +21,11 @@ Sequelize & Postgres
 Typescript [learning]
 
 Contact 📩
+
 LinkedIn: https://www.linkedin.com/in/martin--figueroa/
 
 E-mail: martinfigueroa2103@hotmaill.com 
+
 Portafolio:
 
 
