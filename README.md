@@ -27,6 +27,8 @@ LinkedIn: https://www.linkedin.com/in/martin--figueroa/
 
 E-mail: martinfigueroa2103@hotmaill.com 
 
+CV: https://docs.google.com/document/d/1zqCAADwSaDdsXQp563b23ZXCSgpx9T2NZuUi5LiRKMA/edit
+
 Portafolio:
 
 
